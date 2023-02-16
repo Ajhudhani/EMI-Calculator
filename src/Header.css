@@ -1,0 +1,20 @@
+.header{
+    background-color: #5A2870;
+    width: auto;
+}
+.container{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.btn{
+    padding: 10px;
+    margin-left: 5px;
+}
+.dropdown{
+    background-color: #5A2870;
+    color: #fff;
+}
+.navbarScrollingDropdown{
+    margin: 0;
+    border: 0;
+}
